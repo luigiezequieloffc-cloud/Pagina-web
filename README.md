@@ -10,5 +10,7 @@ A segunda página serve para contar as coisas com mais calma. Nela detalho a min
 
 Update! Formulário para entrar em contato com solicitação de nome, e-mail, telefone, botão de confirmação para enviar e reset para limpar os dados preenchidos.<img width="1360" height="768" alt="Captura de Tela (3)" src="https://github.com/user-attachments/assets/590e6d46-165d-4dc8-a5f4-628e67288e60" />
 
+<img width="1360" height="768" alt="image" src="https://github.com/user-attachments/assets/3c39cd51-2e10-48e8-bd52-38f61c08f1a8" />
+update!adicionei a estilização com CSS para definir as cores e organizar a aparência visual de toda a página. Também atualizei os links para conectar as páginas reais do site (início, sobre e contato), além de ajustar o tamanho da foto de perfil e organizar a navegação."
 
 Pagina feita por Luigi Ezequiel.
